@@ -1,5 +1,5 @@
 # excel_ping_monitoring
-Ping monitoring with Excel and VB.
+Ping monitoring with Excel and VBA.
 
 2 files:
 1 - Ping multiple clients.
